@@ -58,7 +58,7 @@ Currently focused on improving analytical thinking through real-world projects a
 ## 📫 Connect With Me
 
 - 💼 LinkedIn:www.linkedin.com/in/abhishek-chaudhari-12332102gg
-- 📧 Email: abhishekzc02@gmail.com
+- 📧 Email:abhishek02.tech@gmail.com
 
 ---
 
