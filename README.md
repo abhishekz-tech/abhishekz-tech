@@ -3,7 +3,12 @@
 ### 📊 Data Enthusiast | Analytics • Dashboards • Insights
 
 Driven by data and continuous learning 🚀  
-Focused on transforming raw data into meaningful insights using Excel, SQL, Power BI & Python.
+Passionate about transforming raw data into meaningful insights and impactful decisions 📊  
+Focused on analytics, dashboards, reporting and business intelligence using Excel, SQL, Power BI & Python.  
+
+💡 Exploring data storytelling, visualization and problem-solving through practical projects  
+🚀 Continuously learning new technologies and improving analytical thinking every day  
+📈 Interested in building efficient, data-driven solutions that create real business value
 
 ---
 
